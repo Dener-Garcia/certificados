@@ -12,7 +12,7 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
 
 - [Introdução prática ao Figma - 19/04/2022](certificates/19-04-22-Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20ao%20Figma.pdf)
 
-- [Introdução ao Git e GitHub](certificates/16-04-22-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub.pdf)
+- [Introdução ao Git e GitHub - 16/04/2022](certificates/16-04-22-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub.pdf)
 
 - [Gerência de projetos - 17/05/2020](certificates/15-07-20-Certificado%20Gerencia%20de%20projetos.pdf)
 
