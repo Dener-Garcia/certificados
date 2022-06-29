@@ -14,7 +14,7 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
 
 - [Introdução ao Git e GitHub - 16/04/2022](certificates/16-04-22-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub.pdf)
 
-- [Gerência de projetos - 17/05/2020](certificates/15-07-20-Certificado%20Gerencia%20de%20projetos.pdf)
+- [Gerência de projetos - 17/07/2020](certificates/15-07-20-Certificado%20Gerencia%20de%20projetos.pdf)
 
 - [Serviços de rede - 26/05/2020](certificates/26-05-20-Certificado%20Servi%C3%A7os%20de%20rede.pdf)
 
