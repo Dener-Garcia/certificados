@@ -26,6 +26,12 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
 
 - [Tecnologia da informação e comunicação - 03/04/2020](certificates/03-04-20-Tecnologia%20da%20informacao%20e%20comunicacao.pdf) 
 
+- [Specialization 121P - 20K Coesia Group GD - 19/04/10](certificates/19-04-19-Specialist-121P-20K.jpg)
+
+- [TIA Portal Siemens 1500 - 11/01/19](certificates/11-01-19-Certificado%20Orkan%20CLP%20Siemens%201500.jpg)
+
+- [Técnico em Eletrotécnica - 21/12/16](certificates/21-12-16-Tecnico%20Senai%20frente.jpg)
+
 <br>
 
 ## 🎚️ Próximos cursos
