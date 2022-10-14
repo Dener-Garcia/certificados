@@ -3,8 +3,11 @@
 Como forma de organizar e disponibilizar de maneira fácil e eficiente a recrutadores ou mesmo clientes que queiram conhecer mais sobre mim e minhas certificações, criei esse repositório onde armazeno meus principais certificados de cursos e treinamentos.
 
  <br>
-
-<img src="certificates/frase.png" width="50%"/> 
+ 
+<div align="center">
+ 
+<img src="certificates/frase.png" width="30%"/> 
+</div>
 
  <br>
 
@@ -14,36 +17,23 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
  
 | Certificado                          | Curso                         | Instituição | Data certificação |
 | ------------------------------------ | ----------------------------- | ----------- | ----------------- |
-| <a href="certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" height="68px"/> </a>                   | [Linux fundamentos](certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png)                                                                                                  | 07/2022     | FIAP |
+| <a href="certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="58px"/> </a> | [Linux fundamentos](certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png)                                                                                                  | 08/2022     | FIAP                       |
+| <a href="certificates/19-04-22-Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20ao%20Figma.pdf"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="38px"/> </a> | [Introdução prática ao Figma](certificates/19-04-22-Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20ao%20Figma.pdf)                                                                                | 04/2022     | DIO - Digital Inovation One|
+| <a href="certificates/16-04-22-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub.pdf"> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="98px"/> </a> | [Introdução ao Git e GitHub](certificates/16-04-22-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub.pdf)                                                                                      | 04/2022     | DIO - Digital Inovation One|
+| <a href="certificates/15-07-20-Certificado%20Gerencia%20de%20projetos.pdf"> <img src="https://esab.edu.br/wp-content/uploads/2020/06/logo-esab03.png" width="98px"/> </a> | [Gerência de projetos](certificates/15-07-20-Certificado%20Gerencia%20de%20projetos.pdf)                                                                                                                    | 07/2020     | ESAB                       |
+| <a href="certificates/26-05-20-Certificado%20Servi%C3%A7os%20de%20rede.pdf"> <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="98px"/> </a> | [Serviços de rede](certificates/26-05-20-Certificado%20Servi%C3%A7os%20de%20rede.pdf)                                                                                                                      | 05/2020     | ESAB                       |
+| <a href="certificates/23-05-20-Certificado%20Protocolos%20de%20redes.pdf"> <img src="https://cdn-icons-png.flaticon.com/512/955/955001.png" width="48px"/> </a> | [Protocolos de redes](certificates/23-05-20-Certificado%20Protocolos%20de%20redes.pdf)                                                                                                      | 05/2020     | ESAB                       |
+| <a href="certificates/17-05-20-Certificado%20Gest%C3%A3o%20de%20pessoas.pdf"> <img src="https://esab.edu.br/wp-content/uploads/2020/06/logo-esab03.png" width="98px"/> </a> | [Gestão de pessoas](certificates/17-05-20-Certificado%20Gest%C3%A3o%20de%20pessoas.pdf)                                                                                                      | 05/2020     | ESAB                       |
+| <a href="certificates/03-04-20-Tecnologia%20da%20informacao%20e%20comunicacao.pdf"> <img src="https://www7.fiemg.com.br/Cms_Data/Sites/SistemaFiemg/Sites/Senai/Themes/senai/img/logo.png" width="98px"/> </a> | [Tecnologia da informação e comunicação](certificates/03-04-20-Tecnologia%20da%20informacao%20e%20comunicacao.pdf)                                                                                                      | 04/2020     | ESAB                       |
 
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title |
-| Paragraph   | First paragraph. <br><br> Second paragraph. |
-| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
- 
-
-<p style="text-align:center">Center this text</p>
-
+ <br>
+  <br>
+  
 <div align="center">
 
-  [Linux fundamentos - 21/07/2022](certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png)
-
-
-- [Introdução prática ao Figma - 19/04/2022](certificates/19-04-22-Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20ao%20Figma.pdf)
-
-- [Introdução ao Git e GitHub - 16/04/2022](certificates/16-04-22-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub.pdf)
-
-- [Gerência de projetos - 17/07/2020](certificates/15-07-20-Certificado%20Gerencia%20de%20projetos.pdf)
-
-- [Serviços de rede - 26/05/2020](certificates/26-05-20-Certificado%20Servi%C3%A7os%20de%20rede.pdf)
-
-- [Protocolos de redes - 23/05/2020](certificates/23-05-20-Certificado%20Protocolos%20de%20redes.pdf)
+### 🗃️ Outros cursos e certificado anteriores a 2020
 
 - [Segurança em redes Microsoft - 23/05/2020](certificates/23-05-20-Certificado%20Seguran%C3%A7a%20em%20redes%20Microsoft.pdf)
-
-- [Gestão de pessoas - 17/05/2020](certificates/17-05-20-Certificado%20Gest%C3%A3o%20de%20pessoas.pdf)
 
 - [Tecnologia da informação e comunicação - 03/04/2020](certificates/03-04-20-Tecnologia%20da%20informacao%20e%20comunicacao.pdf) 
 
@@ -54,6 +44,7 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
 - [Técnico Senai em Eletrotécnica - 21/12/16](certificates/21-12-16-Tecnico%20Senai%20frente.pdf)
 
 </div>
+
 <br>
 
 ## 🎚️ Próximos cursos
