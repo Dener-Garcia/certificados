@@ -8,9 +8,29 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
 
  <br>
 
-## 🗃️ Lista de cursos e links
+## 🗃️ Lista de cursos e links para os certificados
 
-- [Linux fundamentos - 21/07/2022](certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png)
+ <br>
+ 
+| Certificado      | Curso | Data certificação |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| <a href="https://www.google.com/"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" height="44px" align="center"/> </a>| Title |
+| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> | teste |
+| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> | teste |
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragraph. <br><br> Second paragraph. |
+| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
+ 
+
+<p style="text-align:center">Center this text</p>
+
+<div align="center">
+
+ <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" height="28px"/> [Linux fundamentos - 21/07/2022](certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png)
+
 
 - [Introdução prática ao Figma - 19/04/2022](certificates/19-04-22-Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20ao%20Figma.pdf)
 
@@ -34,6 +54,7 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
 
 - [Técnico Senai em Eletrotécnica - 21/12/16](certificates/21-12-16-Tecnico%20Senai%20frente.pdf)
 
+</div>
 <br>
 
 ## 🎚️ Próximos cursos
