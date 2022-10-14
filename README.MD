@@ -10,6 +10,8 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
 
 ## 🗃️ Lista de cursos e links
 
+- [Linux fundamentos - 21/07/2022](certificates/19-04-22-Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20ao%20Figma.pdf)
+
 - [Introdução prática ao Figma - 19/04/2022](certificates/19-04-22-Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20ao%20Figma.pdf)
 
 - [Introdução ao Git e GitHub - 16/04/2022](certificates/16-04-22-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub.pdf)
