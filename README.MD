@@ -4,7 +4,7 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
 
  <br>
 
-<img src="certificates/frase.png" width="80%"/> 
+<img src="certificates/frase.png" width="50%"/> 
 
  <br>
 
@@ -12,11 +12,10 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
 
  <br>
  
-| Certificado                                                                                                                           | Curso                         | Data certificação |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------- |
-| <a href="https://www.google.com/"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" height="28px"/> </a>                | [Linux fundamentos - 21/07/2022](certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png) | 
-| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> | teste |
-| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> | teste |
+| Certificado                          | Curso                         | Instituição | Data certificação |
+| ------------------------------------ | ----------------------------- | ----------- | ----------------- |
+| <a href="certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" height="68px"/> </a>                   | [Linux fundamentos](certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png)                                                                                                  | 07/2022     | FIAP |
+
 
 | Syntax      | Description |
 | ----------- | ----------- |
