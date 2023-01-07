@@ -17,6 +17,7 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
  
 | Certificado                          | Curso                         | Data certificação | Instituição       |
 | ------------------------------------ | ----------------------------- | ----------------- | ----------------- |
+| <a href="certificates/mobile-marketing_951fe2575e68aeb34f141d6728802bd0.png"> <img src="https://banner2.cleanpng.com/20180325/sxq/kisspng-iphone-4-iphone-8-plus-iphone-5-iphone-x-iphone-apple-5ab72c72740db3.4853433615219539064754.jpg" width="58px"/> </a> | [Mobile marketing](certificates/mobile-marketing_951fe2575e68aeb34f141d6728802bd0.png.png)                                                                                                  | 08/2022     | FIAP                       |
 | <a href="certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="58px"/> </a> | [Linux fundamentos](certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png)                                                                                                  | 08/2022     | FIAP                       |
 | <a href="certificates/19-04-22-Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20ao%20Figma.pdf"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="38px"/> </a> | [Introdução prática ao Figma](certificates/19-04-22-Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20ao%20Figma.pdf)                                                                                | 04/2022     | DIO - Digital Inovation One|
 | <a href="certificates/16-04-22-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub.pdf"> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="98px"/> </a> | [Introdução ao Git e GitHub](certificates/16-04-22-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub.pdf)                                                                                      | 04/2022     | DIO - Digital Inovation One|
@@ -28,10 +29,16 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
 
  <br>
   <br>
+
+
+## 🎚️ Próximos cursos
+- [ ] Terminar curso de Ux Design do Google
+- [ ] Melhorar minhas habilidade de Figma
+- [ ] Concluir curso superior em Gestão Comercial, Formatura 12/2023.
   
 <div align="center">
 
-### 🗃️ Outros cursos e certificado anteriores a 2020
+### 🗃️ Outros cursos e certificados anteriores a 2020
 
 - [Segurança em redes Microsoft - 23/05/2020](certificates/23-05-20-Certificado%20Seguran%C3%A7a%20em%20redes%20Microsoft.pdf)
 
@@ -47,6 +54,3 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
 
 <br>
 
-## 🎚️ Próximos cursos
-- [ ] Fazer curso de Design UX do Google
-- [ ] Concluir curso superior em Gestão Comercial, Formatura 12/2023.
