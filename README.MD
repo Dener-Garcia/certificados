@@ -17,7 +17,7 @@ Como forma de organizar e disponibilizar de maneira fácil e eficiente a recruta
  
 | Certificado                          | Curso                         | Data certificação | Instituição       |
 | ------------------------------------ | ----------------------------- | ----------------- | ----------------- |
-
+|
 | <a href="certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="58px"/> </a> | [Linux fundamentos](certificates/linux-fundamental-839dadd4bc998a0d53a605cd435b8cec.png)                                                                                                  | 08/2022     | FIAP                       |
 | <a href="certificates/19-04-22-Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20ao%20Figma.pdf"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="38px"/> </a> | [Introdução prática ao Figma](certificates/19-04-22-Introdu%C3%A7%C3%A3o%20pr%C3%A1tica%20ao%20Figma.pdf)                                                                                | 04/2022     | DIO - Digital Inovation One|
 | <a href="certificates/16-04-22-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub.pdf"> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="98px"/> </a> | [Introdução ao Git e GitHub](certificates/16-04-22-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub.pdf)                                                                                      | 04/2022     | DIO - Digital Inovation One|
