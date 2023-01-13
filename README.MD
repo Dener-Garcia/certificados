@@ -2,14 +2,16 @@
 
 # 🗃️ Minhas certificações
 
-##### Repositório para organizar e compartilhar minhas últimas e mais relevantes certificações com você 😉
+#### Repositório para organizar e compartilhar minhas últimas e mais relevantes certificações com você 😉
 
 </div>
 
 <div align="center">
 
 > Comece onde vocé está;
+>
 > Use o que você tiver;
+>
 > Faca o que você puder.
 
  </div>
