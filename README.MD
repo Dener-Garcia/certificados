@@ -2,9 +2,11 @@
 
 # 🗃️ Minhas certificações
 
-#### Repositório para organizar e compartilhar minhas últimas e mais relevantes certificações com você 😉
+### Repositório para organizar e compartilhar minhas últimas e mais relevantes certificações com você 😉
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -16,9 +18,11 @@
 
  </div>
 
- <hr>
+ <br>
+ 
+ <div align="center">
 
-| Instituição                                  | Curso                                                | Data certificação | 
+| Instituição                                  | Certificado do Curso                                 | Data certificação | 
 | :------------------------------------------: | :--------------------------------------------------: | :---------------: |
 |<img src="/capa/pmi.png" width="120px"/>      | [Fundamentos do Scrum](docs/scrum-fund.pdf)          | 19 / 12 / 2022    |
 |<img src="/capa/in-learn.png" width="120px"/> | [Figma - Handoff to dev](docs/figma-handoff.pdf)     | 07 / 12 / 2022    |
@@ -30,11 +34,17 @@
 |<img src="/capa/esab.png" width="120px"/>     | [Gerência de Projetos](docs/projetos.pdf)            | 15 / 07 / 2020    |
 |<img src="/capa/esab.png" width="120px"/>     | [Gestão de Pessoas](docs/people.pdf)                 | 26 / 05 / 2020    |
 
+ </div>
+ 
+ <hr>
+ 
 ### 🎯 Próximos objetivos
 
 - [ ] Terminar curso de Ux Design do Google
 - [ ] Melhorar minhas habilidade de Figma
 - [ ] Concluir curso superior em Gestão Comercial, Formatura 12/2023.
+
+<hr>
 
 ### Me encontre nas 🕸 sociais
 
