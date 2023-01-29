@@ -25,7 +25,7 @@
 | Instituição                                  | Certificado do Curso                                 | Data certificação | 
 | :------------------------------------------: | :--------------------------------------------------: | :---------------: |
 |<img src="/capa/pmi.png" width="120px"/>      | [Fundamentos do Scrum](docs/scrum-fund.pdf)          | 19 / 12 / 2022    |
-|<img src="/capa/plurix.png" width="120px"/>   | [Fundamentos do Scrum](docs/ux-writing.pdf)          | 17 / 12 / 2022    |
+|<img src="/capa/plurix.png" width="120px"/>   | [Introdução a UX Writing](docs/ux-writing.pdf)       | 17 / 12 / 2022    |
 |<img src="/capa/in-learn.png" width="120px"/> | [Figma - Handoff to dev](docs/figma-handoff.pdf)     | 07 / 12 / 2022    |
 |<img src="/capa/fiap.png" width="120px"/>     | [Linux Fundamentos](docs/linux-fund.pdf)             | 19 / 08 / 2022    |
 |<img src="/capa/fiap.png" width="120px"/>     | [Mobile Marketing](docs/mobile-mkt.pdf)              | 21 / 07 / 2022    |
