@@ -24,6 +24,7 @@
 
 | Instituição                                  | Certificado do Curso                                 | Data certificação | 
 | :------------------------------------------: | :--------------------------------------------------: | :---------------: |
+|<img src="/capa/coursera.png" width="120px"/> | [Google UX Design](docs/ux-google.pdf)               | 05 / 05 / 2023    |
 |<img src="/capa/coursera.png" width="120px"/> | [Criar wireframes e protótipos](docs/wireframes.pdf) | 24 / 02 / 2023    |
 |<img src="/capa/voitto.png" width="120px"/>   | [Agile Scrum](docs/scrum-voitto.pdf)                 | 23 / 02 / 2023    |
 |<img src="/capa/coursera.png" width="120px"/> | [Empatia, definir e idealizar](docs/ux-process.pdf)  | 15 / 02 / 2023    |
