@@ -24,7 +24,7 @@
 
 | Instituição                                  | Certificado do Curso                                 | Data certificação | 
 | :------------------------------------------: | :--------------------------------------------------: | :---------------: |
-|<img src="/capa/coursera.png" width="120px"/> | [Google UX Design](docs/ux-google.pdf)               | 05 / 05 / 2023    |
+|<img src="/capa/coursera.png" width="120px"/> | [Google UX Design](docs/UX-Google.pdf)               | 05 / 05 / 2023    |
 |<img src="/capa/voitto.png" width="120px"/>   | [Agile Scrum](docs/scrum-voitto.pdf)                 | 23 / 02 / 2023    |
 |<img src="/capa/pmi.png" width="120px"/>      | [Fundamentos do Scrum](docs/scrum-fund.pdf)          | 19 / 12 / 2022    |
 |<img src="/capa/plurix.png" width="120px"/>   | [Introdução a UX Writing](docs/ux-writing.pdf)       | 17 / 12 / 2022    |
