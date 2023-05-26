@@ -24,6 +24,7 @@
 
 | Instituição                                  | Certificado do Curso                                 | Data certificação | 
 | :------------------------------------------: | :--------------------------------------------------: | :---------------: |
+|<img src="/capa/in-learn.png" width="120px"/> | [JavaScript - Formação basica](docs/js-form-basi.pdf)| 26 / 06 / 2023    |
 |<img src="/capa/coursera.png" width="120px"/> | [Google UX Design](docs/UX-Google.pdf)               | 05 / 05 / 2023    |
 |<img src="/capa/voitto.png" width="120px"/>   | [Agile Scrum](docs/scrum-voitto.pdf)                 | 23 / 02 / 2023    |
 |<img src="/capa/pmi.png" width="120px"/>      | [Fundamentos do Scrum](docs/scrum-fund.pdf)          | 19 / 12 / 2022    |
