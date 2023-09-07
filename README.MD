@@ -24,6 +24,8 @@
 
 | Instituição                                  | Certificado do Curso                                 | Data certificação | 
 | :------------------------------------------: | :--------------------------------------------------: | :---------------: |
+|<img src="/capa/feux.png" width="120px"/>     | [Figma - FEUX Felipe Santada](docs/feux-figma.pdf)   | 15 / 09 / 2023    |
+|<img src="/capa/kenzie.png" width="120px"/>   | [Full Stack - Kenzie Academy](docs/full-stack-kz.pdf)| 03 / 08 / 2023    |
 |<img src="/capa/in-learn.png" width="120px"/> | [JavaScript - Formação basica](docs/js-form-basi.pdf)| 26 / 06 / 2023    |
 |<img src="/capa/coursera.png" width="120px"/> | [Google UX Design](docs/UX-Google.pdf)               | 05 / 05 / 2023    |
 |<img src="/capa/voitto.png" width="120px"/>   | [Agile Scrum](docs/scrum-voitto.pdf)                 | 23 / 02 / 2023    |
@@ -44,8 +46,6 @@
  
 ### 🎯 Próximos objetivos
 
-- [ ] Terminar curso de Ux Design do Google
-- [ ] Melhorar minhas habilidade de Figma
 - [ ] Concluir curso superior em Gestão Comercial, Formatura 12/2023.
 
 <hr>
@@ -54,8 +54,8 @@
 
 #### 👨‍💻 [Linkedin](https://www.linkedin.com/in/denergarcia/)
 
-#### 🎬 [Youtube](https://www.youtube.com/@linuxaberto)
+#### 🎬 [Youtube](https://www.youtube.com/@dener.criarbr)
 
-#### 📷 [Instagram](https://www.instagram.com/denerux/)
+#### 📷 [Instagram](https://www.instagram.com/dener.criarbr/)
 
-#### ✉️ <a href="mailto:dener@em3de.com"> Envie um  e-mail </a>
+#### ✉️ <a href="mailto:dener.criarbr@gmail.com"> Envie um e-mail </a>
