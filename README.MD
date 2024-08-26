@@ -24,6 +24,7 @@
 
 | Instituição                                  | Certificado do Curso                                 | Data certificação | 
 | :------------------------------------------: | :--------------------------------------------------: | :---------------: |
+|<img src="/capa/unidombosco.png" width="120px"/>| [Gestão Comercial - UniDomBosco](docs/diplomaComerc.pdf)| 17 / 07 / 2024|
 |<img src="/capa/FEUX.png" width="120px"/>     | [Figma - FEUX Felipe Santada](docs/feux-figma.pdf)   | 03 / 08 / 2023    |
 |<img src="/capa/kenzie.png" width="120px"/>   | [Full Stack - Kenzie Academy](docs/full-stack-kz.pdf)| 10 / 07 / 2023    |
 |<img src="/capa/in-learn.png" width="120px"/> | [JavaScript - Formação basica](docs/js-form-basi.pdf)| 26 / 06 / 2023    |
