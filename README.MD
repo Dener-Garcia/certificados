@@ -47,7 +47,8 @@
  
 ### 🎯 Próximos objetivos
 
-- [ ] Concluir curso superior em Gestão Comercial, Formatura 12/2023.
+- [x] Concluir curso superior em Gestão Comercial, Formatura 05/2024.
+- [ ] Concluir pos-graduação UX Design.
 
 <hr>
 
